@@ -1,0 +1,615 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SdaData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Version="1.0" xmlns="http://agilent.com/sta">
+<OnHandSetup Softkey="SP SNMhold sweep Qn" Subjected="true" RepeatCount="1">
+<TestSetup>
+<Title>SP SNMhold sweep Qn</Title>
+<PrimitiveTest Name="I/V Sweep">
+<TestParameterList>
+<Parameter Name="Context.MainFrame" Index="0">
+<String>4156C</String>
+</Parameter>
+<Parameter Name="Channel.UnitType" Index="0">
+<String>SMU</String>
+</Parameter>
+<Parameter Name="Channel.Unit" Index="0">
+<String>SMU1:HR</String>
+</Parameter>
+<Parameter Name="Channel.IName" Index="0">
+<String>I1_Q_n</String>
+</Parameter>
+<Parameter Name="Channel.VName" Index="0">
+<String>V1_Q_n</String>
+</Parameter>
+<Parameter Name="Channel.Mode" Index="0">
+<String>V</String>
+</Parameter>
+<Parameter Name="Channel.Func" Index="0">
+<String>VAR1</String>
+</Parameter>
+<Parameter Name="Channel.UnitType" Index="1">
+<String>SMU</String>
+</Parameter>
+<Parameter Name="Channel.Unit" Index="1">
+<String>SMU2:HR</String>
+</Parameter>
+<Parameter Name="Channel.IName" Index="1">
+<String>I2_Q</String>
+</Parameter>
+<Parameter Name="Channel.VName" Index="1">
+<String>V2_Q</String>
+</Parameter>
+<Parameter Name="Channel.Mode" Index="1">
+<String>I</String>
+</Parameter>
+<Parameter Name="Channel.Func" Index="1">
+<String>CONST</String>
+</Parameter>
+<Parameter Name="Channel.UnitType" Index="2">
+<String>SMU</String>
+</Parameter>
+<Parameter Name="Channel.Unit" Index="2">
+<String>SMU3:HR</String>
+</Parameter>
+<Parameter Name="Channel.IName" Index="2">
+<String>I3_BL_n</String>
+</Parameter>
+<Parameter Name="Channel.VName" Index="2">
+<String>V3_BL_n</String>
+</Parameter>
+<Parameter Name="Channel.Mode" Index="2">
+<String>V</String>
+</Parameter>
+<Parameter Name="Channel.Func" Index="2">
+<String>CONST</String>
+</Parameter>
+<Parameter Name="Channel.UnitType" Index="3">
+<String>SMU</String>
+</Parameter>
+<Parameter Name="Channel.Unit" Index="3">
+<String>SMU5:HP</String>
+</Parameter>
+<Parameter Name="Channel.IName" Index="3">
+<String>I4_BL</String>
+</Parameter>
+<Parameter Name="Channel.VName" Index="3">
+<String>V4_BL</String>
+</Parameter>
+<Parameter Name="Channel.Mode" Index="3">
+<String>V</String>
+</Parameter>
+<Parameter Name="Channel.Func" Index="3">
+<String>CONST</String>
+</Parameter>
+<Parameter Name="Channel.UnitType" Index="4">
+<String>SMU</String>
+</Parameter>
+<Parameter Name="Channel.Unit" Index="4">
+<String>SMU4:HR</String>
+</Parameter>
+<Parameter Name="Channel.IName" Index="4">
+<String>I5_WL</String>
+</Parameter>
+<Parameter Name="Channel.VName" Index="4">
+<String>V5_WL</String>
+</Parameter>
+<Parameter Name="Channel.Mode" Index="4">
+<String>V</String>
+</Parameter>
+<Parameter Name="Channel.Func" Index="4">
+<String>CONST</String>
+</Parameter>
+<Parameter Name="Channel.UnitType" Index="5">
+<String>SMU</String>
+</Parameter>
+<Parameter Name="Channel.Unit" Index="5">
+<String>GNDU:GND</String>
+</Parameter>
+<Parameter Name="Channel.IName" Index="5">
+<String>Ignd</String>
+</Parameter>
+<Parameter Name="Channel.VName" Index="5">
+<String>Vgnd</String>
+</Parameter>
+<Parameter Name="Channel.Mode" Index="5">
+<String>COMMON</String>
+</Parameter>
+<Parameter Name="Channel.Func" Index="5">
+<String>CONST</String>
+</Parameter>
+<Parameter Name="Channel.UnitType" Index="6">
+<String>SMU</String>
+</Parameter>
+<Parameter Name="Channel.Unit" Index="6">
+<String>VS1:VSU</String>
+</Parameter>
+<Parameter Name="Channel.IName" Index="6">
+<String>Idd</String>
+</Parameter>
+<Parameter Name="Channel.VName" Index="6">
+<String>Vdd</String>
+</Parameter>
+<Parameter Name="Channel.Mode" Index="6">
+<String>V</String>
+</Parameter>
+<Parameter Name="Channel.Func" Index="6">
+<String>CONST</String>
+</Parameter>
+<Parameter Name="Channel.Index" Index="0">
+<String />
+</Parameter>
+<Parameter Name="Channel.Time" Index="0">
+<String />
+</Parameter>
+<Parameter Name="Measurement.Port.Unit" Index="0">
+<String>SMU1:HR</String>
+</Parameter>
+<Parameter Name="Measurement.Port.SeriesResistor" Index="0">
+<String>NONE</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Filter" Index="0">
+<String>ON</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Unit" Index="1">
+<String>SMU2:HR</String>
+</Parameter>
+<Parameter Name="Measurement.Port.SeriesResistor" Index="1">
+<String>NONE</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Filter" Index="1">
+<String>ON</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Unit" Index="2">
+<String>SMU3:HR</String>
+</Parameter>
+<Parameter Name="Measurement.Port.SeriesResistor" Index="2">
+<String>NONE</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Filter" Index="2">
+<String>ON</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Unit" Index="3">
+<String>SMU5:HP</String>
+</Parameter>
+<Parameter Name="Measurement.Port.SeriesResistor" Index="3">
+<String>NONE</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Filter" Index="3">
+<String>ON</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Unit" Index="4">
+<String>SMU4:HR</String>
+</Parameter>
+<Parameter Name="Measurement.Port.SeriesResistor" Index="4">
+<String>NONE</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Filter" Index="4">
+<String>ON</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Unit" Index="5">
+<String>GNDU:GND</String>
+</Parameter>
+<Parameter Name="Measurement.Port.SeriesResistor" Index="5">
+<String>NONE</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Filter" Index="5">
+<String>ON</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Unit" Index="6">
+<String>VS1:VSU</String>
+</Parameter>
+<Parameter Name="Measurement.Port.SeriesResistor" Index="6">
+<String>NONE</String>
+</Parameter>
+<Parameter Name="Measurement.Port.Filter" Index="6">
+<String>ON</String>
+</Parameter>
+<Parameter Name="Measurement.Primary.Locus" Index="0">
+<String>Single</String>
+</Parameter>
+<Parameter Name="Measurement.Primary.Scale" Index="0">
+<String>LINEAR</String>
+</Parameter>
+<Parameter Name="Measurement.Primary.Start" Index="0">
+<Double>0</Double>
+</Parameter>
+<Parameter Name="Measurement.Primary.Stop" Index="0">
+<Double>1.2</Double>
+</Parameter>
+<Parameter Name="Measurement.Primary.Step" Index="0">
+<Double>0.01</Double>
+</Parameter>
+<Parameter Name="Measurement.Primary.Compliance" Index="0">
+<Double>0.0005</Double>
+</Parameter>
+<Parameter Name="Measurement.Primary.PowerCompliance" Index="0">
+<Double>0</Double>
+</Parameter>
+<Parameter Name="Measurement.Aborting.Condition" Index="0">
+<String>CONTINUE AT ANY</String>
+</Parameter>
+<Parameter Name="Measurement.PostOutput.Value" Index="0">
+<String>START</String>
+</Parameter>
+<Parameter Name="Measurement.PostOutput.Retention" Index="0">
+<String>OFF</String>
+</Parameter>
+<Parameter Name="Measurement.Bias.Source" Index="0">
+<Double>0</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Compliance" Index="0">
+<Double>0.0005</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Source" Index="1">
+<Double>0</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Compliance" Index="1">
+<Double>1.2</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Source" Index="2">
+<Double>1.2</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Compliance" Index="2">
+<Double>0.0001</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Source" Index="3">
+<Double>1.2</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Compliance" Index="3">
+<Double>0.0001</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Source" Index="4">
+<Double>0</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Compliance" Index="4">
+<Double>0.0001</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Source" Index="5">
+<Double>0</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Compliance" Index="5">
+<Double>1</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Source" Index="6">
+<Double>1.2</Double>
+</Parameter>
+<Parameter Name="Measurement.Bias.Compliance" Index="6">
+<Double>0.1</Double>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Unit" Index="0">
+<String>SMU1:HR</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Adc" Index="0">
+<String>HR ADC</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangingMode" Index="0">
+<String>LIMITED</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeBoundary" Index="0">
+<String>1nA</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRating" Index="0">
+<String>BY FULL RANGE</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRatingCoeff" Index="0">
+<Number>50</Number>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Unit" Index="1">
+<String>SMU2:HR</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Adc" Index="1">
+<String>HR ADC</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangingMode" Index="1">
+<String>AUTO</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeBoundary" Index="1">
+<String />
+</Parameter>
+<Parameter Name="Measurement.Monitor.Unit" Index="2">
+<String>SMU3:HR</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Adc" Index="2">
+<String>HR ADC</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangingMode" Index="2">
+<String>LIMITED</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeBoundary" Index="2">
+<String>1nA</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRating" Index="2">
+<String>BY FULL RANGE</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRatingCoeff" Index="2">
+<Number>50</Number>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Unit" Index="3">
+<String>SMU5:HP</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Adc" Index="3">
+<String>HR ADC</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangingMode" Index="3">
+<String>LIMITED</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeBoundary" Index="3">
+<String>1nA</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRating" Index="3">
+<String>BY FULL RANGE</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRatingCoeff" Index="3">
+<Number>50</Number>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Unit" Index="4">
+<String>SMU4:HR</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Adc" Index="4">
+<String>HR ADC</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangingMode" Index="4">
+<String>LIMITED</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeBoundary" Index="4">
+<String>1nA</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRating" Index="4">
+<String>BY FULL RANGE</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRatingCoeff" Index="4">
+<Number>50</Number>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Unit" Index="5">
+<String>GNDU:GND</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Adc" Index="5">
+<String>HR ADC</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangingMode" Index="5">
+<String>LIMITED</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeBoundary" Index="5">
+<String>1nA</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRating" Index="5">
+<String>BY FULL RANGE</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRatingCoeff" Index="5">
+<Number>50</Number>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Unit" Index="6">
+<String>VS1:VSU</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.Adc" Index="6">
+<String>HR ADC</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangingMode" Index="6">
+<String>LIMITED</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeBoundary" Index="6">
+<String>1nA</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRating" Index="6">
+<String>BY FULL RANGE</String>
+</Parameter>
+<Parameter Name="Measurement.Monitor.RangeRatingCoeff" Index="6">
+<Number>50</Number>
+</Parameter>
+<Parameter Name="Measurement.Timing.Hold" Index="0">
+<Double>0</Double>
+</Parameter>
+<Parameter Name="Measurement.Timing.Delay" Index="0">
+<Double>0</Double>
+</Parameter>
+<Parameter Name="Measurement.Adc.HighResolution.AutoZero" Index="0">
+<String>OFF</String>
+</Parameter>
+<Parameter Name="Measurement.Adc.HighResolution.Mode" Index="0">
+<String>AUTO</String>
+</Parameter>
+<Parameter Name="Measurement.Adc.HighResolution.Coeff" Index="0">
+<Double>4</Double>
+</Parameter>
+<Parameter Name="Measurement.Ag16440ASelector.SemiconductorRelay.Channel1" Index="0">
+<String>DEFAULT</String>
+</Parameter>
+<Parameter Name="Measurement.Ag16440ASelector.SemiconductorRelay.Channel3" Index="0">
+<String>DEFAULT</String>
+</Parameter>
+<Parameter Name="Output.Graph.Enabled" Index="0">
+<Boolean>true</Boolean>
+</Parameter>
+<Parameter Name="Output.Graph.AutoScaling" Index="0">
+<Boolean>false</Boolean>
+</Parameter>
+<Parameter Name="Output.Graph.XAxis.Data" Index="0">
+<String>V1_Q_n</String>
+</Parameter>
+<Parameter Name="Output.Graph.XAxis.Scale" Index="0">
+<String>Linear</String>
+</Parameter>
+<Parameter Name="Output.Graph.XAxis.Left" Index="0">
+<Double>0</Double>
+</Parameter>
+<Parameter Name="Output.Graph.XAxis.Right" Index="0">
+<Double>1.2</Double>
+</Parameter>
+<Parameter Name="Output.Graph.XAxis.RunTimeAutoScale" Index="0">
+<Boolean>true</Boolean>
+</Parameter>
+<Parameter Name="Output.Graph.YAxis.Data" Index="0">
+<String>V2_Q</String>
+</Parameter>
+<Parameter Name="Output.Graph.YAxis.Scale" Index="0">
+<String>Linear</String>
+</Parameter>
+<Parameter Name="Output.Graph.YAxis.Bottom" Index="0">
+<Double>-0.1</Double>
+</Parameter>
+<Parameter Name="Output.Graph.YAxis.Top" Index="0">
+<Double>0.1</Double>
+</Parameter>
+<Parameter Name="Output.Graph.YAxis.Group" Index="0">
+<String />
+</Parameter>
+<Parameter Name="Output.Graph.YAxis.RunTimeAutoScale" Index="0">
+<Boolean>true</Boolean>
+</Parameter>
+<Parameter Name="AutoAnalysis.Interpolation" Index="0">
+<Boolean>false</Boolean>
+</Parameter>
+<Parameter Name="AutoAnalysis.Var2StepCount" Index="0">
+<Number>1</Number>
+</Parameter>
+<Parameter Name="AutoAnalysis.Var2StepScript" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Enabled" Index="0">
+<Boolean>false</Boolean>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Type" Index="0">
+<Number>1</Number>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Fix" Index="0">
+<String>True</String>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.YAxis" Index="0">
+<Number>0</Number>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point1.Type" Index="0">
+<Number>0</Number>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point1.XY.X" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point1.XY.Y" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point1.Data.Var" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point1.Data.Condition" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point1.Data.Start" Index="0">
+<Boolean>false</Boolean>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point1.Data.StartVar" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point1.Data.StartCondition" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point2.Type" Index="0">
+<Number>0</Number>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point2.XY.X" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point2.XY.Y" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point2.Data.Var" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point2.Data.Condition" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point2.Data.Start" Index="0">
+<Boolean>false</Boolean>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point2.Data.StartVar" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.Point2.Data.StartCondition" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line1.GradientExpr" Index="0">
+<String>0</String>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Enabled" Index="0">
+<Boolean>false</Boolean>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Type" Index="0">
+<Number>1</Number>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Fix" Index="0">
+<String>True</String>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.YAxis" Index="0">
+<Number>0</Number>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point1.Type" Index="0">
+<Number>0</Number>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point1.XY.X" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point1.XY.Y" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point1.Data.Var" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point1.Data.Condition" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point1.Data.Start" Index="0">
+<Boolean>false</Boolean>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point1.Data.StartVar" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point1.Data.StartCondition" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point2.Type" Index="0">
+<Number>0</Number>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point2.XY.X" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point2.XY.Y" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point2.Data.Var" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point2.Data.Condition" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point2.Data.Start" Index="0">
+<Boolean>false</Boolean>
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point2.Data.StartVar" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.Point2.Data.StartCondition" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Line2.GradientExpr" Index="0">
+<String>0</String>
+</Parameter>
+<Parameter Name="AutoAnalysis.Marker.Enabled" Index="0">
+<Boolean>false</Boolean>
+</Parameter>
+<Parameter Name="AutoAnalysis.Marker.Data.Var" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Marker.Data.Condition" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Marker.Data.Start" Index="0">
+<Boolean>false</Boolean>
+</Parameter>
+<Parameter Name="AutoAnalysis.Marker.Data.StartVar" Index="0">
+<String />
+</Parameter>
+<Parameter Name="AutoAnalysis.Marker.Data.StartCondition" Index="0">
+<String />
+</Parameter>
+</TestParameterList>
+</PrimitiveTest>
+</TestSetup>
+</OnHandSetup>
+</SdaData>

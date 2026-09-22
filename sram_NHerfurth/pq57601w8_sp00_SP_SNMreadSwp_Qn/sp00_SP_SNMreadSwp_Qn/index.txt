@@ -1,0 +1,252 @@
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 7 7
+  (84) ; 11.03.2026 15:36:20]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 7 7  (84) ; 11.03.2026 15_36_20].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 8 7
+  (83) ; 11.03.2026 15:36:10]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 8 7  (83) ; 11.03.2026 15_36_10].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 9 7
+  (82) ; 11.03.2026 15:36:01]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 9 7  (82) ; 11.03.2026 15_36_01].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 10 7
+  (81) ; 11.03.2026 15:35:52]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 10 7  (81) ; 11.03.2026 15_35_52].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 11 7
+  (80) ; 11.03.2026 15:35:43]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 11 7  (80) ; 11.03.2026 15_35_43].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 12 7
+  (79) ; 11.03.2026 15:35:34]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 12 7  (79) ; 11.03.2026 15_35_34].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 13 7
+  (78) ; 11.03.2026 15:35:24]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 13 7  (78) ; 11.03.2026 15_35_24].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 16 6
+  (77) ; 11.03.2026 15:35:15]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 16 6  (77) ; 11.03.2026 15_35_15].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 15 6
+  (76) ; 11.03.2026 15:35:06]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 15 6  (76) ; 11.03.2026 15_35_06].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 14 6
+  (75) ; 11.03.2026 15:34:56]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 14 6  (75) ; 11.03.2026 15_34_56].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 13 6
+  (74) ; 11.03.2026 15:34:47]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 13 6  (74) ; 11.03.2026 15_34_47].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 12 6
+  (73) ; 11.03.2026 15:34:38]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 12 6  (73) ; 11.03.2026 15_34_38].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 11 6
+  (72) ; 11.03.2026 15:34:29]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 11 6  (72) ; 11.03.2026 15_34_29].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 10 6
+  (71) ; 11.03.2026 15:34:20]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 10 6  (71) ; 11.03.2026 15_34_20].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 9 6
+  (70) ; 11.03.2026 15:34:12]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 9 6  (70) ; 11.03.2026 15_34_12].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 8 6
+  (69) ; 11.03.2026 15:34:03]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 8 6  (69) ; 11.03.2026 15_34_03].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 7 6
+  (68) ; 11.03.2026 15:33:53]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 7 6  (68) ; 11.03.2026 15_33_53].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 6 6
+  (67) ; 11.03.2026 15:33:43]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 6 6  (67) ; 11.03.2026 15_33_43].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 5 6
+  (66) ; 11.03.2026 15:33:33]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 5 6  (66) ; 11.03.2026 15_33_33].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 4 6
+  (65) ; 11.03.2026 15:33:24]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 4 6  (65) ; 11.03.2026 15_33_24].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 2 5
+  (64) ; 11.03.2026 15:33:14]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 2 5  (64) ; 11.03.2026 15_33_14].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 3 5
+  (63) ; 11.03.2026 15:33:05]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 3 5  (63) ; 11.03.2026 15_33_05].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 4 5
+  (62) ; 11.03.2026 15:32:56]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 4 5  (62) ; 11.03.2026 15_32_56].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 5 5
+  (61) ; 11.03.2026 15:32:47]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 5 5  (61) ; 11.03.2026 15_32_47].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 6 5
+  (60) ; 11.03.2026 15:32:38]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 6 5  (60) ; 11.03.2026 15_32_38].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 7 5
+  (59) ; 11.03.2026 15:32:30]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 7 5  (59) ; 11.03.2026 15_32_30].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 8 5
+  (58) ; 11.03.2026 15:32:21]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 8 5  (58) ; 11.03.2026 15_32_21].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 9 5
+  (57) ; 11.03.2026 15:32:12]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 9 5  (57) ; 11.03.2026 15_32_12].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 10 5
+  (56) ; 11.03.2026 15:32:03]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 10 5  (56) ; 11.03.2026 15_32_03].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 11 5
+  (55) ; 11.03.2026 15:31:53]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 11 5  (55) ; 11.03.2026 15_31_53].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 12 5
+  (54) ; 11.03.2026 15:31:44]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 12 5  (54) ; 11.03.2026 15_31_44].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 13 5
+  (53) ; 11.03.2026 15:31:35]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 13 5  (53) ; 11.03.2026 15_31_35].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 14 5
+  (52) ; 11.03.2026 15:31:26]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 14 5  (52) ; 11.03.2026 15_31_26].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 15 5
+  (51) ; 11.03.2026 15:31:17]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 15 5  (51) ; 11.03.2026 15_31_17].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 16 5
+  (50) ; 11.03.2026 15:31:08]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 16 5  (50) ; 11.03.2026 15_31_08].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 17 5
+  (49) ; 11.03.2026 15:30:59]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 17 5  (49) ; 11.03.2026 15_30_59].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 18 5
+  (48) ; 11.03.2026 15:30:49]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 18 5  (48) ; 11.03.2026 15_30_49].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 18 4
+  (47) ; 11.03.2026 15:30:39]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 18 4  (47) ; 11.03.2026 15_30_39].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 17 4
+  (46) ; 11.03.2026 15:30:29]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 17 4  (46) ; 11.03.2026 15_30_29].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 16 4
+  (45) ; 11.03.2026 15:30:20]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 16 4  (45) ; 11.03.2026 15_30_20].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 15 4
+  (44) ; 11.03.2026 15:30:11]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 15 4  (44) ; 11.03.2026 15_30_11].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 14 4
+  (43) ; 11.03.2026 15:30:02]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 14 4  (43) ; 11.03.2026 15_30_02].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 13 4
+  (42) ; 11.03.2026 15:29:53]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 13 4  (42) ; 11.03.2026 15_29_53].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 12 4
+  (41) ; 11.03.2026 15:29:44]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 12 4  (41) ; 11.03.2026 15_29_44].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 11 4
+  (40) ; 11.03.2026 15:29:35]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 11 4  (40) ; 11.03.2026 15_29_35].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 10 4
+  (39) ; 11.03.2026 15:29:26]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 10 4  (39) ; 11.03.2026 15_29_26].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 9 4
+  (38) ; 11.03.2026 15:29:16]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 9 4  (38) ; 11.03.2026 15_29_16].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 8 4
+  (37) ; 11.03.2026 15:29:07]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 8 4  (37) ; 11.03.2026 15_29_07].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 7 4
+  (36) ; 11.03.2026 15:28:58]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 7 4  (36) ; 11.03.2026 15_28_58].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 6 4
+  (35) ; 11.03.2026 15:28:49]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 6 4  (35) ; 11.03.2026 15_28_49].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 5 4
+  (34) ; 11.03.2026 15:28:40]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 5 4  (34) ; 11.03.2026 15_28_40].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 4 4
+  (33) ; 11.03.2026 15:28:31]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 4 4  (33) ; 11.03.2026 15_28_31].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 3 4
+  (32) ; 11.03.2026 15:28:22]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 3 4  (32) ; 11.03.2026 15_28_22].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 2 4
+  (31) ; 11.03.2026 15:28:13]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 2 4  (31) ; 11.03.2026 15_28_13].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 2 3
+  (30) ; 11.03.2026 15:28:03]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 2 3  (30) ; 11.03.2026 15_28_03].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 3 3
+  (29) ; 11.03.2026 15:27:55]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 3 3  (29) ; 11.03.2026 15_27_55].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 4 3
+  (28) ; 11.03.2026 15:27:45]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 4 3  (28) ; 11.03.2026 15_27_45].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 5 3
+  (27) ; 11.03.2026 15:27:36]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 5 3  (27) ; 11.03.2026 15_27_36].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 6 3
+  (26) ; 11.03.2026 15:27:27]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 6 3  (26) ; 11.03.2026 15_27_27].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 7 3
+  (25) ; 11.03.2026 15:27:18]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 7 3  (25) ; 11.03.2026 15_27_18].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 8 3
+  (24) ; 11.03.2026 15:27:09]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 8 3  (24) ; 11.03.2026 15_27_09].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 9 3
+  (23) ; 11.03.2026 15:27:00]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 9 3  (23) ; 11.03.2026 15_27_00].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 10 3
+  (22) ; 11.03.2026 15:26:51]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 10 3  (22) ; 11.03.2026 15_26_51].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 11 3
+  (21) ; 11.03.2026 15:26:42]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 11 3  (21) ; 11.03.2026 15_26_42].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 12 3
+  (20) ; 11.03.2026 15:26:33]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 12 3  (20) ; 11.03.2026 15_26_33].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 13 3
+  (19) ; 11.03.2026 15:26:24]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 13 3  (19) ; 11.03.2026 15_26_24].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 14 3
+  (18) ; 11.03.2026 15:26:15]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 14 3  (18) ; 11.03.2026 15_26_15].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 15 3
+  (17) ; 11.03.2026 15:26:06]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 15 3  (17) ; 11.03.2026 15_26_06].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 16 3
+  (16) ; 11.03.2026 15:25:56]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 16 3  (16) ; 11.03.2026 15_25_56].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 17 3
+  (15) ; 11.03.2026 15:25:47]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 17 3  (15) ; 11.03.2026 15_25_47].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 18 3
+  (14) ; 11.03.2026 15:25:36]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 18 3  (14) ; 11.03.2026 15_25_36].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 16 2
+  (13) ; 11.03.2026 15:25:27]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 16 2  (13) ; 11.03.2026 15_25_27].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 15 2
+  (12) ; 11.03.2026 15:25:18]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 15 2  (12) ; 11.03.2026 15_25_18].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 14 2
+  (11) ; 11.03.2026 15:25:08]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 14 2  (11) ; 11.03.2026 15_25_08].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 13 2
+  (10) ; 11.03.2026 15:24:58]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 13 2  (10) ; 11.03.2026 15_24_58].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 12 2
+  (9) ; 11.03.2026 15:24:49]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 12 2  (9) ; 11.03.2026 15_24_49].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 11 2
+  (8) ; 11.03.2026 15:24:40]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 11 2  (8) ; 11.03.2026 15_24_40].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 10 2
+  (7) ; 11.03.2026 15:24:32]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 10 2  (7) ; 11.03.2026 15_24_32].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 9 2
+  (6) ; 11.03.2026 15:24:22]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 9 2  (6) ; 11.03.2026 15_24_22].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 8 2
+  (5) ; 11.03.2026 15:24:12]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 8 2  (5) ; 11.03.2026 15_24_12].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 7 2
+  (4) ; 11.03.2026 15:24:03]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 7 2  (4) ; 11.03.2026 15_24_03].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 6 2
+  (3) ; 11.03.2026 15:23:54]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 6 2  (3) ; 11.03.2026 15_23_54].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 5 2
+  (2) ; 11.03.2026 15:23:45]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 5 2  (2) ; 11.03.2026 15_23_45].csv
+SP SNMread sweep Qn [
+pq57601w8_sp00 : 4 2
+  (1) ; 11.03.2026 15:23:36]	->	SP SNMread sweep Qn [pq57601w8_sp00 _ 4 2  (1) ; 11.03.2026 15_23_36].csv
